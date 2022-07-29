@@ -33,7 +33,7 @@ Idealizada e desenvolvida por **_Guido Van Rossum_**, matemático holandês, no 
 
 [Website](https://www.w3schools.com/python/) - Website W3Schools - Python.
 
-[Website](https://www.django-rest-framework.org/) - Djanto Rest Framework - DRF.
+[Website](https://www.django-rest-framework.org/) - Djanto Rest Framework.
 
 
 ## Conteúdo do Curso
