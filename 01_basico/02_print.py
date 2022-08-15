@@ -47,7 +47,7 @@ print('18');
 
 texto = "Olá Estudante! Bem-vindo ao curso de Python."
 
-print(texto)
+print(texto);
 
 
 # Exemplo utilizando argumentos posicionais:
