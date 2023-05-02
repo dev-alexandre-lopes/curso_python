@@ -1,6 +1,6 @@
 MIT License
 
-Copyright <2022> (c) Alexadre Lopes <dev.alexandre.lopes@gmail.com>
+Copyright <2023> (c) Alexadre Lopes <dev.alexandre.lopes@gmail.com>
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
