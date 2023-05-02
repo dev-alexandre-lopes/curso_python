@@ -6,7 +6,7 @@
 
 Idealizada e desenvolvida por **_Guido Van Rossum_**, matemático holandês, no início dos anos 90, o **_Python_** foi criado com o objetivo de otimizar a leitura de códigos e estimular a produtividade de quem os cria, seja este um programador ou qualquer outro profissional.
 
-**_Python_** é uma linguagem muito popular nas áreas da tecnologia relacionadas à análise de dados, pesquisa, desenvolvimento de algoritmos e IA. 
+**_Python_** é uma linguagem muito popular nas áreas da tecnologia relacionadas à análise de dados, pesquisa, desenvolvimento de algoritmos e IA.
 
 ## Aplicações da Linguagem Python:
 
