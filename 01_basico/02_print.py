@@ -70,7 +70,7 @@ print('Imprime a mensagem e permanece na linha. ',end='')
 
 print('Continuei na mesma linha!')
 
-# Exemplo do uso de Docstring para documentação do projet
+# Exemplo do uso de Docstring para documentação do projeto
 
 """
 DocString
