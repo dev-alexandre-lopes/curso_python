@@ -40,7 +40,7 @@ print ('João', 'Carlos', sep='-');
 # Exercício: Fazer uma função com print para imprimir um cpf:
 
 print('766','290','822',sep='.', end='-');
-print('18');
+print('18'); 
 
 
 #Exemplo utilizando a impressão de uma variável:
