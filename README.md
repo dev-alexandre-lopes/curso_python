@@ -43,7 +43,7 @@ Idealizada e desenvolvida por **_Guido Van Rossum_**, matemático holandês, no 
 * Programação Procedural;
 * Programação Orientada a Objetos;
 * Módulos Python: os, datatime, sys, json, csv, selenium, pillow;
-* PyQT5: Interface Gráfica;
+* PyQT6: Interface Gráfica;
 * Base de Dados com Python:SQLite e MySQL;
 * Framework Django;
 * Django: Projeto Agenda;
