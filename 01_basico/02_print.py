@@ -58,14 +58,24 @@ print("Wakie", "Treinamentos", "em Tecnologia -", nome1)
 
 # Exemplo de Concatenação de Strings:
 
-##nome2 = input("Digite seu nome: ")
+nome2 = input("Digite seu nome: ")
 
-##print("Olá " + nome2 + "!. Bem-vindo ao curso de Python!\n")
+print("Olá " + nome2 + "! Bem-vindo ao curso de Python!\n")
 
 # Exemplo de desabilitar a quebra de linha:
 
-print('Imprime a mensagem e muda de linha')
+print('Imprime a mensagem e muda de linha\n')
 
 print('Imprime a mensagem e permanece na linha. ',end='')
 
 print('Continuei na mesma linha!')
+
+# Exemplo do uso de Docstring para documentação do projet
+
+"""
+DocString
+Linha 1
+Linha 2
+Linha 3
+
+"""
