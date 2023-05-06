@@ -16,7 +16,7 @@ Aula 05 - Operadores Aritméticos
 //	Floor division  x // y  (Arrendondamento para baixo - Divisão Inteira)
 
 '''
-print('Adição',2 + 5)
+print('\nAdição',2 + 5)
 
 print('Concatenação', '2' + '5')
 
@@ -47,7 +47,7 @@ Abaixo, segue uma lista mais precisa de quais operadores tem maior prioridade na
 
 3) * / //  % - Na sequência multiplicação, divisão, divisão inteira e módulo
 
-4) +  - - Por fim, soma e subtração
+4) +  -  Por fim, soma e subtração
 
 Contas com operadores de mesma precedência são realizadas da esquerda para a direita.
 
@@ -57,3 +57,9 @@ print (5+2*10)# Resultado esperado 25
 
 
 print ((5+2)*10)# Resultado esperado 70
+
+# Exemplo de conta:
+
+conta_1 = (1 + int(0.5 + 0.5)) ** (5 + 5)
+
+print(conta_1)
