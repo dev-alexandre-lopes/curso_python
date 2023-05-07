@@ -6,7 +6,7 @@
 * Exibir um texto com todos os valores na tela utilizando F-strings 
 '''
 
-nome = 'Luiz'
+nome = 'Paulo'
 idade = 38
 altura = 1.70
 peso = 80.0

@@ -25,7 +25,7 @@ idade2 = 38
 altura = 1.70
 peso = 80
 imc = peso//altura**2
-print(f'{nome} tem {idade2} anos de idade e seu imc é {imc}')# Utilizando F-Strings
+print(f'{nome} tem {idade2} anos de idade e seu imc é {imc:.2f}')# Utilizando f-strings
 print('{} tem {} anos de idade e seu imc é {}'.format(nome, idade2, imc))
 
 # Outro exemplo:
