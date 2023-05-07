@@ -1,5 +1,5 @@
 '''
-Aula 06  - Variáveis
+Aula 05  - Variáveis
 
 Iniciar com Letras, pode conter números, separar _, letras minúsculas
 

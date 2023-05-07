@@ -1,5 +1,5 @@
 '''
-Aula 08 - F-strings
+Aula 08 - f-strings
 
 F-strings foram criados para facilitar a formatação de strings.
 

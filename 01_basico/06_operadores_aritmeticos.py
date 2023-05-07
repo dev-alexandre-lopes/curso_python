@@ -1,5 +1,5 @@
 '''
-Aula 05 - Operadores Aritméticos
+Aula 06 - Operadores Aritméticos
 
 +	Addition        x + y
 
