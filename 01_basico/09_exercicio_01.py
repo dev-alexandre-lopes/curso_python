@@ -1,4 +1,6 @@
 '''
+Exercício 01:
+
 * Criar variáveis para nome (str), idade (int), altura (float) e peso (float) de uma pessoa;
 * Criar variável com o ano atual
 * Obter o ano de nascimento da pessoa
