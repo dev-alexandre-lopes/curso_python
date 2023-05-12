@@ -1,5 +1,5 @@
 """
-Operadores de comparação (relacionais):
+Aula 11 - Operadores de comparação (relacionais):
 
 OP      Significado         Exemplo (True)
 >       maior               2 > 1
