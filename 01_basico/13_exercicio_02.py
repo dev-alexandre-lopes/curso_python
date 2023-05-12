@@ -1,6 +1,6 @@
 """
 
-Crie um código para mostrar na tela se dados dois valores qual é o maior.
+Crie um código para mostrar na tela, para dados dois valores numéricos qual é o maior.
 
 Utilize a função input
 
